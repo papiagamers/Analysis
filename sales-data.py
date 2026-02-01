@@ -41,4 +41,5 @@ plt.suptitle(f'GRAND TOTAL: {grand_total_mt} MT\nTop 4 Products: {top_products}'
              fontsize=10, fontweight='bold', y=1.02)
 
 plt.tight_layout()
+plt.title("Total Sales: (2'176)")
 plt.show()
