@@ -1,21 +1,21 @@
-"id";"brand_name";"product_name";"viscosity_grade";"viscosity_index";"price_per_liter";"stock_quantity";"last_updated"
-1;"Mobil 1";"Advanced Full Synthetic";"5W-30";160;1250.0;50;"2026-03-23 11:12:07"
-2;"Castrol";"Edge High Mileage";"10W-40";155;980.0;35;"2026-03-23 11:12:07"
-3;"Shell";"Helix Ultra";"5W-40";170;1150.0;42;"2026-03-23 11:12:07"
-4;"Motul";"8100 X-cess";"5W-40";172;1400.0;20;"2026-03-23 11:12:07"
-5;"Liqui Moly";"Molygen New Generation";"5W-30";165;1450.0;15;"2026-03-23 11:12:07"
-6;"Valvoline";"Advanced Full Synthetic";"0W-20";168;1100.0;25;"2026-03-23 11:12:07"
-7;"Royal Purple";"HPS High Performance";"5W-20";175;1600.0;12;"2026-03-23 11:12:07"
-8;"Pennzoil";"Platinum Euro";"5W-40";162;1050.0;40;"2026-03-23 11:12:07"
-9;"TotalEnergies";"Quartz 9000";"5W-30";158;920.0;60;"2026-03-23 11:12:07"
-10;"Idemitsu";"Zepro Touring";"5W-30";164;1180.0;28;"2026-03-23 11:12:07"
-11;"Eneos";"Fully Synthetic";"0W-20";178;1300.0;18;"2026-03-23 11:12:07"
-12;"Ravenol";"VMP SAE";"5W-30";174;1550.0;10;"2026-03-23 11:12:07"
-13;"ZIC";"X9 Fully Synthetic";"5W-40";160;850.0;100;"2026-03-23 11:12:07"
-14;"Havoline";"ProDS Full Synthetic";"5W-30";157;890.0;55;"2026-03-23 11:12:07"
-15;"Amsoil";"Signature Series";"0W-30";180;1850.0;8;"2026-03-23 11:12:07"
-16;"Petronas";"Syntium 7000";"0W-20";171;1220.0;30;"2026-03-23 11:12:07"
-17;"Gulf";"Formula G";"5W-40";159;780.0;45;"2026-03-23 11:12:07"
-18;"Repsoil";"Elite Evolution";"5W-30";161;1120.0;22;"2026-03-23 11:12:07"
-19;"Lucas Oil";"Synthetic High Performance";"10W-30";152;1080.0;15;"2026-03-23 11:12:07"
-20;"Toyota Genuine";"Motor Oil";"0W-20";166;1350.0;50;"2026-03-23 11:12:07"
+ID,Product_Name,Manufacturer,Date,Price_BDT,Quantity_Litre,Location,Region,Sales_Person,Max_Price,Min_Price
+1,Mobil 1 5W-30 (4L),MJL Bangladesh PLC,2026-01-05,1200,150,"Tejgaon, Dhaka",Dhaka Central,Mr. Karim,1500,1200
+2,Shell Advance Ultra,Ranks Petroleum,2026-01-10,450,40,"Agrabad, Chittagong",Chattogram Port,Ms. Rahman,500,450
+3,BNO Turbo 20W-50,Lub-rref (BD) Ltd,2026-01-12,600,80,"Tongi, Gazipur",Dhaka North,Mr. Alam,700,600
+4,Petronas Sprinta F700,United Lube Oil Ltd,2026-01-18,850,110,"Fatullah, Narayanganj",Dhaka South,Ms. Sultana,1000,850
+5,Gulf Pride 4T,Gulf Oil Bangladesh,2026-01-22,320,25,"Kadamtali, Sylhet",Sylhet Division,Mr. Hossain,400,320
+6,Castrol Magnatec,BP Bangladesh,2026-02-01,1100,200,"Boalia, Rajshahi",Rajshahi Division,Ms. Jahan,1300,1100
+7,Mobil Super Moto,MJL Bangladesh PLC,2026-02-05,210,15,"Khalishpur, Khulna",Khulna Division,Mr. Chowdhury,300,210
+8,Shell Rimula R4 X,Ranks Petroleum,2026-02-08,2400,350,"Maskanda, Mymensingh",Mymensingh Division,Ms. Anika,2500,2400
+9,TotalEnergies Quartz,TotalEnergies BD,2026-02-12,1350,180,"Uttara, Dhaka",Dhaka North,Mr. Shuvo,1500,1350
+10,BNO Industrial Hyd.,Lub-rref (BD) Ltd,2026-02-15,4500,600,"EPZ, Chittagong",Chattogram Port,Ms. Farzana,5000,4500
+11,Petronas Urania 3000,United Lube Oil Ltd,2026-02-18,1800,220,"Chelopara, Bogra",Rajshahi Division,Mr. Rahim,2000,1800
+12,Sigma Power 4T,Sigma Oil Industries,2026-02-22,280,30,"Mirpur, Dhaka",Dhaka North,Ms. Tania,350,280
+13,Sinopec Tulux T500,Sinopec Lubricants,2026-02-25,1150,140,"Modern Mor, Rangpur",Rangpur Division,Mr. Iqbal,1200,1150
+14,Mobil Delvac MX,MJL Bangladesh PLC,2026-03-01,950,100,"Kandirpar, Comilla",Chattogram Division,Ms. Rupa,1000,950
+15,Shell Helix Ultra,Ranks Petroleum,2026-03-05,1550,210,"Motijheel, Dhaka",Dhaka Central,Mr. Karim,1600,1550
+16,Gulf Formula G,Gulf Oil Bangladesh,2026-03-08,1050,125,"Palbari, Jessore",Khulna Division,Ms. Nasrin,1200,1050
+17,BNO Gear Lube,Lub-rref (BD) Ltd,2026-03-12,520,65,"Natullabad, Barisal",Barisal Division,Mr. Hasan,600,520
+18,Castrol CRB Turbomax,BP Bangladesh,2026-03-15,2100,300,"Dhanmondi, Dhaka",Dhaka Central,Ms. Shirin,2200,2100
+19,Petronas Paraffinic,United Lube Oil Ltd,2026-03-20,3200,450,"Nasirabad, Chittagong",Chattogram Port,Mr. Tanvir,3500,3200
+20,Mobil Special 20W-50,MJL Bangladesh PLC,2026-03-25,380,40,"Savar, Dhaka",Dhaka North,Ms. Nadia,500,380
